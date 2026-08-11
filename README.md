@@ -47,6 +47,10 @@ EMBEDDING_DIM=768
 EMBEDDING_MODEL=nomic-embed-text
 INGEST_DIR=./documents
 PROCESSED_DIR=./documents/processed
+
+HTTP_ADDR=:8080
+IMAGES_DIR=./documents/images
+VISION_MODEL=mistral-small3.1
 ```
 
 ## Running the Application
